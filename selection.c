@@ -2,7 +2,7 @@
 //  selection.c
 //  DAA programs
 //
-//  Created by ROHAN on 10/01/24.
+//  Created by ROHAN  D R on 10/01/24.
 //
 
 #include<stdio.h>
@@ -32,7 +32,7 @@ int main()
         }
     }
     printf("Sorted List in Ascending Order is:\n");
-    for(i=0;i< n;i++)
+    for(i=0;i<  n;i++)
     {
         printf("%d\t",a[i]);
     }

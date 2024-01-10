@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		3D13C42F2B4EDD0600C0DD50 /* TsMan.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TsMan.h; sourceTree = "<group>"; };
+		3D13C4302B4EDD0600C0DD50 /* TsMan.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = TsMan.c; sourceTree = "<group>"; };
 		3D6ACAF32B4E91330094DCE9 /* selection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = selection.h; sourceTree = "<group>"; };
 		3D6ACAF42B4E91330094DCE9 /* selection.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = selection.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -15,6 +17,8 @@
 		3D6ACAEC2B4E90980094DCE9 = {
 			isa = PBXGroup;
 			children = (
+				3D13C42F2B4EDD0600C0DD50 /* TsMan.h */,
+				3D13C4302B4EDD0600C0DD50 /* TsMan.c */,
 				3D6ACAF32B4E91330094DCE9 /* selection.h */,
 				3D6ACAF42B4E91330094DCE9 /* selection.c */,
 			);
