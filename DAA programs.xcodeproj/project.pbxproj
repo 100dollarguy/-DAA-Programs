@@ -9,6 +9,8 @@
 /* Begin PBXFileReference section */
 		3D13C42F2B4EDD0600C0DD50 /* TsMan.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TsMan.h; sourceTree = "<group>"; };
 		3D13C4302B4EDD0600C0DD50 /* TsMan.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = TsMan.c; sourceTree = "<group>"; };
+		3D1BD3442B503A6D0046FEC2 /* DivideNconquer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DivideNconquer.h; sourceTree = "<group>"; };
+		3D1BD3452B503A6D0046FEC2 /* DivideNconquer.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = DivideNconquer.c; sourceTree = "<group>"; };
 		3D668AA22B4F8CE800598858 /* knapsack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = knapsack.h; sourceTree = "<group>"; };
 		3D668AA32B4F8CE800598858 /* knapsack.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = knapsack.c; sourceTree = "<group>"; };
 		3D668AA42B4F918C00598858 /* greedysolution.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = greedysolution.h; sourceTree = "<group>"; };
@@ -26,6 +28,8 @@
 				3DE748672B4FFC88004E4A1E /* DFS&BFS.h */,
 				3DE748682B4FFC88004E4A1E /* DFS&BFS.c */,
 				3D668AA42B4F918C00598858 /* greedysolution.h */,
+				3D1BD3442B503A6D0046FEC2 /* DivideNconquer.h */,
+				3D1BD3452B503A6D0046FEC2 /* DivideNconquer.c */,
 				3D668AA52B4F918C00598858 /* greedysolution.c */,
 				3D668AA22B4F8CE800598858 /* knapsack.h */,
 				3D668AA32B4F8CE800598858 /* knapsack.c */,
