@@ -15,12 +15,16 @@
 		3D668AA52B4F918C00598858 /* greedysolution.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = greedysolution.c; sourceTree = "<group>"; };
 		3D6ACAF32B4E91330094DCE9 /* selection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = selection.h; sourceTree = "<group>"; };
 		3D6ACAF42B4E91330094DCE9 /* selection.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = selection.c; sourceTree = "<group>"; };
+		3DE748672B4FFC88004E4A1E /* DFS&BFS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DFS&BFS.h"; sourceTree = "<group>"; };
+		3DE748682B4FFC88004E4A1E /* DFS&BFS.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "DFS&BFS.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		3D6ACAEC2B4E90980094DCE9 = {
 			isa = PBXGroup;
 			children = (
+				3DE748672B4FFC88004E4A1E /* DFS&BFS.h */,
+				3DE748682B4FFC88004E4A1E /* DFS&BFS.c */,
 				3D668AA42B4F918C00598858 /* greedysolution.h */,
 				3D668AA52B4F918C00598858 /* greedysolution.c */,
 				3D668AA22B4F8CE800598858 /* knapsack.h */,
