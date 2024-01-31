@@ -15,6 +15,8 @@
 		3D1BD3472B503CC10046FEC2 /* mergesort.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = mergesort.c; sourceTree = "<group>"; };
 		3D65AAF02B6A165A0016E405 /* prog11.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = prog11.h; sourceTree = "<group>"; };
 		3D65AAF12B6A165A0016E405 /* prog11.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = prog11.c; sourceTree = "<group>"; };
+		3D65AAF22B6A1C870016E405 /* prog12.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = prog12.h; sourceTree = "<group>"; };
+		3D65AAF32B6A1C870016E405 /* prog12.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = prog12.c; sourceTree = "<group>"; };
 		3D668AA22B4F8CE800598858 /* knapsack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = knapsack.h; sourceTree = "<group>"; };
 		3D668AA32B4F8CE800598858 /* knapsack.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = knapsack.c; sourceTree = "<group>"; };
 		3D668AA42B4F918C00598858 /* greedysolution.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = greedysolution.h; sourceTree = "<group>"; };
@@ -30,6 +32,8 @@
 		3D6ACAEC2B4E90980094DCE9 = {
 			isa = PBXGroup;
 			children = (
+				3D65AAF22B6A1C870016E405 /* prog12.h */,
+				3D65AAF32B6A1C870016E405 /* prog12.c */,
 				3D1BD3462B503CC10046FEC2 /* mergesort.h */,
 				3D1BD3472B503CC10046FEC2 /* mergesort.c */,
 				3DE748672B4FFC88004E4A1E /* DFS&BFS.h */,
