@@ -13,6 +13,9 @@
 		3D1BD3452B503A6D0046FEC2 /* DivideNconquer.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = DivideNconquer.c; sourceTree = "<group>"; };
 		3D1BD3462B503CC10046FEC2 /* mergesort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = mergesort.h; sourceTree = "<group>"; };
 		3D1BD3472B503CC10046FEC2 /* mergesort.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = mergesort.c; sourceTree = "<group>"; };
+		3D42FAF92B6B9BBF00CC1354 /* prog15.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = prog15.c; sourceTree = "<group>"; };
+		3D42FAFA2B6B9DD700CC1354 /* prog16.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = prog16.c; sourceTree = "<group>"; };
+		3D42FAFB2B6B9E8A00CC1354 /* prog17.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = prog17.c; sourceTree = "<group>"; };
 		3D65AAF02B6A165A0016E405 /* prog11.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = prog11.h; sourceTree = "<group>"; };
 		3D65AAF12B6A165A0016E405 /* prog11.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = prog11.c; sourceTree = "<group>"; };
 		3D65AAF22B6A1C870016E405 /* prog12.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = prog12.h; sourceTree = "<group>"; };
@@ -27,25 +30,28 @@
 		3D92ED952B6A485B007E0084 /* prog13.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = prog13.c; sourceTree = "<group>"; };
 		3D92ED962B6A48E3007E0084 /* prog14.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = prog14.h; sourceTree = "<group>"; };
 		3D92ED972B6A48E3007E0084 /* prog14.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = prog14.c; sourceTree = "<group>"; };
+		3D92ED982B6A4A26007E0084 /* DFS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DFS.h; sourceTree = "<group>"; };
+		3D92ED992B6A4A26007E0084 /* DFS.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = DFS.c; sourceTree = "<group>"; };
 		3DE020BE2B57D029002E0922 /* prog9.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = prog9.c; sourceTree = "<group>"; };
-		3DE748672B4FFC88004E4A1E /* DFS&BFS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DFS&BFS.h"; sourceTree = "<group>"; };
-		3DE748682B4FFC88004E4A1E /* DFS&BFS.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "DFS&BFS.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		3D6ACAEC2B4E90980094DCE9 = {
 			isa = PBXGroup;
 			children = (
+				3D42FAF92B6B9BBF00CC1354 /* prog15.c */,
+				3D42FAFA2B6B9DD700CC1354 /* prog16.c */,
+				3D42FAFB2B6B9E8A00CC1354 /* prog17.c */,
+				3D92ED982B6A4A26007E0084 /* DFS.h */,
+				3D92ED992B6A4A26007E0084 /* DFS.c */,
 				3D65AAF22B6A1C870016E405 /* prog12.h */,
 				3D65AAF32B6A1C870016E405 /* prog12.c */,
 				3D1BD3462B503CC10046FEC2 /* mergesort.h */,
 				3D1BD3472B503CC10046FEC2 /* mergesort.c */,
-				3DE748672B4FFC88004E4A1E /* DFS&BFS.h */,
 				3D92ED942B6A485B007E0084 /* prog13.h */,
 				3D92ED952B6A485B007E0084 /* prog13.c */,
 				3D92ED962B6A48E3007E0084 /* prog14.h */,
 				3D92ED972B6A48E3007E0084 /* prog14.c */,
-				3DE748682B4FFC88004E4A1E /* DFS&BFS.c */,
 				3DE020BE2B57D029002E0922 /* prog9.c */,
 				3D65AAF02B6A165A0016E405 /* prog11.h */,
 				3D65AAF12B6A165A0016E405 /* prog11.c */,

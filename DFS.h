@@ -1,8 +1,8 @@
 //
-//  DFS&BFS.h
+//  DFS.h
 //  DAA programs
 //
-//  Created by ROHAN on 11/01/24.
+//  Created by ROHAN on 31/01/24.
 //
 
 #ifndef DFS_h
