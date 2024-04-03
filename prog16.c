@@ -1,4 +1,4 @@
-//
+//optimal binary search tree
 //  prog16.c
 //  DAA programs
 //
