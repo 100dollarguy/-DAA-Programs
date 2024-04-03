@@ -1,4 +1,4 @@
-//
+//nqueens
 //  prog13.c
 //  DAA programs
 //
