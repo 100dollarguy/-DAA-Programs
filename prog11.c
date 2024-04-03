@@ -1,4 +1,4 @@
-//
+//adjacency matrice
 //  prog11.c
 //  DAA programs
 //
