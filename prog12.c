@@ -1,4 +1,4 @@
-//
+//indegree and out degree
 //  prog12.c
 //  DAA programs
 //
