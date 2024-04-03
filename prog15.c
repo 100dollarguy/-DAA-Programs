@@ -1,3 +1,5 @@
+//job sequence and deadline
+
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
