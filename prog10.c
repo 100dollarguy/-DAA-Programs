@@ -1,4 +1,4 @@
-//
+//wuick sort
 //  prog10.c
 //  DAA programs
 //
