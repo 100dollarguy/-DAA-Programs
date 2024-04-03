@@ -1,4 +1,4 @@
-//
+//kruskals algo
 //  prog18.c
 //  DAA programs
 //
