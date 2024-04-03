@@ -1,4 +1,4 @@
-//
+//sum of subset
 //  prog14.c
 //  DAA programs
 //
